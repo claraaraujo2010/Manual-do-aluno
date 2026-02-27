@@ -1,2 +1,4 @@
 # Manual-do-aluno
 O Manual do Aluno do SENAI SBO é um guia muito importante para nós estudantes, porque nele encontramos todas as informações sobre como a escola funciona. Ele explica nossos direitos e deveres, as regras de convivência, a frequência mínima para aprovação e como funcionam as avaliações. Também traz orientações sobre segurança, principalmente no uso de EPIs nas aulas práticas. Esse manual ajuda a manter a organização, o respeito e a disciplina dentro da escola, além de orientar os alunos para terem um bom desempenho durante o curso.
+
+<img src="senai-sbo.webp" alt="Girl in a jacket" width="500" height="600">
